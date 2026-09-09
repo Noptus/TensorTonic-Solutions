@@ -1,14 +1,14 @@
 # TensorTonic Solutions
 
-Welcome to my TensorTonic solutions repository!
+A collection of machine-learning exercises, with Python implementations and problem notes synchronized from TensorTonic.
 
-Here you'll find my solutions to various machine learning and deep learning problems from [TensorTonic](https://tensortonic.com).
+## Suggested starting points
 
-## What is TensorTonic?
+- [Adam optimizer](adam-optimizer/adam-optimizer.py): optimizer state and bias correction.
+- [Precision and recall at K](precision-recall-at-k/precision-recall-at-k.py): ranking metrics.
+- [Numerically stable sigmoid](sigmoid-numpy/sigmoid-numpy.py): array operations and edge cases.
 
-TensorTonic is a platform where you can implement core algorithms of Machine Learning from scratch.
-
-This repository contains my personal solutions to these problems, automatically synchronized from the platform.
+This is a practice repository, not a production ML package. Platform verification and synchronization do not establish that every solution was written without assistance. The synchronized section below is maintained by TensorTonic and is preserved separately from these notes.
 
 <!-- tensortonic:start -->
 # Raphael Caillon's TensorTonic Solutions
